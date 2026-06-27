@@ -64,7 +64,3 @@ streamlit run app.py
 The file `similarity.pkl` is **not included** in this repository because it exceeds GitHub's 100 MB file size limit.
 
 To run the project successfully, generate the similarity matrix using the notebook (`model/movie_recommender.ipynb`) or place the `similarity.pkl` file in the project root directory.
-
-
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
